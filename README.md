@@ -71,34 +71,34 @@ print("Classification Report:\n", classification_report_output)
 ~~~
 
 ## Output:
-```
+
 HEAD:
-```
+
 <img width="1279" height="330" alt="image" src="https://github.com/user-attachments/assets/dc08f245-6c1f-44d8-9d71-bb8bc40b5e92" />
 
-```
+
 COPY
-```
+
 <img width="1141" height="345" alt="image" src="https://github.com/user-attachments/assets/b17eeaca-88c7-40e3-8630-e7b42d0e7252" />
-```
+
 FIT TRANSFORM
-```
+
 <img width="1122" height="707" alt="image" src="https://github.com/user-attachments/assets/6bcbd8d2-7077-44fe-a868-f4988f400e2f" />
-```
+
 LOGISTIC REGRESSION
-```
+
 <img width="1231" height="309" alt="image" src="https://github.com/user-attachments/assets/ea7d1575-058d-4849-8ae7-d07fbd39245c" />
-```
+
 ACCURACY SCORE
-```
+
 <img width="1225" height="169" alt="image" src="https://github.com/user-attachments/assets/38c66ca3-4212-4bc1-8c9e-ba748d634f92" />
-~~~
+
 CONFUSION MATRIX
-~~~
+
 <img width="1229" height="203" alt="image" src="https://github.com/user-attachments/assets/f3458181-bcc3-44ac-a9b9-41b71e87a328" />
-~~~
+
 CLASSIFICATION REPORTS AND PREDICTIONS
-~~~
+
 <img width="1217" height="524" alt="image" src="https://github.com/user-attachments/assets/04edd7b3-8a43-4167-b766-8a7decadc4f9" />
 
 
